@@ -1,4 +1,4 @@
-# dem-debates-2020
+# Democrating Primaries 2020 Analysis
 Analyzing The 2020 Democratic Debates
 
 Hi There! Take a look at this dataset on Kaggle!
