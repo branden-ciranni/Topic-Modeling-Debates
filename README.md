@@ -1,4 +1,4 @@
-# Democrating Primaries 2020 Analysis
+# Democratic Primaries 2020 Analysis
 ### Appylying Topic Modeling to Analyze the 2020 Democratic Debates
 
 **Topic Modeling** is a type of dimensionality reduction that helps to reveal latent topics in large texts. In this analysis, I use a flavor of Topic Modeling, Nonnegative Matrix Factorization (NMF) to see what each of the 2020 Democratic presidential candidates focused on during the debates.
